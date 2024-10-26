@@ -1,0 +1,21 @@
+1. we creare an route on "api.php" on 21 line
+2.create an "usercontrollaer" using "php artisan make:controller UserController"
+
+3.then write userController.
+4.then we write user models 36 no. line
+5.then we test , is that working using thundr client, that , is that working or sending data to backend ?
+6. then we go to frontend , or on react.
+7. then write those 5-50 line on /register page thats it .
+
+
+
+//Product
+1. for product we create an database 
+2. then making an model and an controller
+3
+
+
+
+//for getting all produt ,it has problem on fatching img , or invalid img link ,
+1.went to config-filesystem->"then change the link route"
+2. run "php artisan storage:link";it will fix image issue

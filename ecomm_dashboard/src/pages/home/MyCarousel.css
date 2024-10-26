@@ -1,0 +1,23 @@
+.my-carousel {
+    background-color: none; /* Set a background color for the carousel */
+    border-radius: 8px;
+  }
+  .my_container{
+    margin-bottom: 5vh;
+    
+  }
+
+  .my-carousel h3,p {
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+  }
+
+  .carousel-image {
+    width: 90%; /* Set a fixed width for the images */
+    border-radius: 8px;
+
+    height: 400px; /* Set a fixed height for the images */
+    object-fit: cover; /* Maintain aspect ratio while covering the entire space */
+  }
+  

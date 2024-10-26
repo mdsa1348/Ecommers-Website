@@ -1,0 +1,8 @@
+1. we creare an route on "api.php" on 21 line
+2.create an "usercontrollaer" using "php artisan make:controller UserController"
+
+3.then write userController.
+4.then we write user models 36 no. line
+5.then we test , is that working using thundr client, that , is that working or sending data to backend ?
+6. then we go to frontend , or on react.
+7. then write those 5-50 line on /register page thats it .
